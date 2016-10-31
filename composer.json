@@ -1,6 +1,7 @@
 {
 	"name":     "jagfx/input-validator",
 	"description": "Validation de valeur. Plus de condition qui s'empile !",
+	"minimum-stability" : "dev",
 	"type":     "project",
 	"require":  {
 		"php": ">=5.6"
